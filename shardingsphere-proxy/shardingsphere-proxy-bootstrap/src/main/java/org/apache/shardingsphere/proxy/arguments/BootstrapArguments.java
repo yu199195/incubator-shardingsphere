@@ -27,7 +27,7 @@ public final class BootstrapArguments {
     
     private static final String DEFAULT_CONFIG_PATH = "/conf/";
     
-    private static final int DEFAULT_PORT = 3307;
+    private static final int DEFAULT_PORT = 3310;
     
     private final int port;
     
